@@ -1,0 +1,31 @@
+D:\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe.config
+D:\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe
+D:\mindreader project\mindreader\mindreader\bin\Debug\mindreader.pdb
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csprojResolveAssemblyReference.cache
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form1.resources
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Properties.Resources.resources
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csproj.GenerateResource.Cache
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.exe
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.pdb
+D:\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form2.resources
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe.config
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.exe
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.pdb
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.pdb
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csprojResolveAssemblyReference.cache
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form1.resources
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form2.resources
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Properties.Resources.resources
+E:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csproj.GenerateResource.Cache
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe.config
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.exe
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\bin\Debug\mindreader.pdb
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csprojAssemblyReference.cache
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form1.resources
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Form2.resources
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.Properties.Resources.resources
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csproj.GenerateResource.cache
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.csproj.CoreCompileInputs.cache
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.exe
+F:\mindreader project-20191215T071809Z-001\mindreader project\mindreader\mindreader\obj\Debug\mindreader.pdb
